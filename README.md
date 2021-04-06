@@ -3,8 +3,7 @@ game-rust-config
 
 Contains all the `rust` server configuration files.
 
-The intention is for this repo to be checked out directly to the box
-
+The intention is for this repo to be checked out directly onto the server (variables replaced!).
 # Setup
 
 Setup is basic, ownership and permissions should be applied automatically.
