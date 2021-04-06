@@ -1,0 +1,3 @@
+game-rust-config
+---
+
