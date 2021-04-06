@@ -3,7 +3,7 @@
   "AllowStackingItemsWithDurability": true,
   "HidePrefixWithPluginNameInMessages": false,
   "DisableDupeFixAndLeaveWeaponMagsAlone": false,
-  "GlobalStackMultiplier": 1.0,
+  "GlobalStackMultiplier": 5.0,
   "CategoryStackMultipliers": {
     "Weapon": 1.0,
     "Construction": 1.0,
