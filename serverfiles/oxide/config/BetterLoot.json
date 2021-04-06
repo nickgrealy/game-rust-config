@@ -44,14 +44,14 @@
   "Loot": {
     "enableHammerLootCycle": false,
     "hammerLootCycleTime": 3,
-    "lootMultiplier": 1,
-    "scrapMultiplier": 1
+    "lootMultiplier": 5,
+    "scrapMultiplier": 5
   },
   "Rarity": {
     "Override": {
-      "autoturret": 4,
-      "lmg.m249": 4,
-      "targeting.computer": 3
+      "autoturret": 1,
+      "lmg.m249": 1,
+      "targeting.computer": 1
     }
   }
 }
